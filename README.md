@@ -12,7 +12,7 @@ Examples of usage:
 <br>
 Live Example:
 ========
-http://jsfiddle.net/natchkebiailia/c9PA3/
+<h3><a href="http://jsfiddle.net/natchkebiailia/c9PA3/">JSFiddle</a></h3>
 Result:
 ========
-![ScreenShot](https://raw.githubusercontent.com/natchkebiailia/)
+![ScreenShot](https://raw.githubusercontent.com/natchkebiailia/NumberToWord/master/screenShot.PNG)
