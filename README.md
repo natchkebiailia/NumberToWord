@@ -12,7 +12,7 @@ Examples of usage:
 <br>
 Live Example:
 ========
-
+http://jsfiddle.net/natchkebiailia/c9PA3/
 Result:
 ========
 ![ScreenShot](https://raw.githubusercontent.com/natchkebiailia/)
