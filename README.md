@@ -1,0 +1,18 @@
+How to use:
+========
+<pre>numberToWord(number)</pre>
+<b>number</b> -> string or integer
+Examples of usage:
+========
+<pre>numberToWord(30);</pre>
+<br>
+<pre>numberToWord("45427465306");</pre>
+<br>
+<pre>numberToWord("454274653078825");</pre>
+<br>
+Live Example:
+========
+
+Result:
+========
+![ScreenShot](https://raw.githubusercontent.com/natchkebiailia/)
