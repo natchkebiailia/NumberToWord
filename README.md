@@ -2,6 +2,7 @@ How to use:
 ========
 <pre>numberToWord(number)</pre>
 <b>number</b> -> string or integer
+<br>
 Examples of usage:
 ========
 <pre>numberToWord(30);</pre>
